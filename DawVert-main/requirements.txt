@@ -1,0 +1,10 @@
+varint
+numpy
+mido
+lxml
+chardet
+av
+beautifulsoup4
+blackboxprotobuf
+pypng
+git+https://github.com/Perlence/rpp
